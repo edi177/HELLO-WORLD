@@ -1,3 +1,5 @@
 # HELLO-WORLD
 Just another repository
-edi1777 here. this is my very fast github work...ever... 
+
+Hi everybody,
+edi177 is here and this is my very first github work...ever... 
